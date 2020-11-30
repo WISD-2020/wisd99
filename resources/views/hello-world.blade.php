@@ -8,6 +8,7 @@
 <body>
 
     @livewire('hello-world')
+    @livewire('search-users')
 
     @livewireScripts
 
